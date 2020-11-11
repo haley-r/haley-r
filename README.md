@@ -1,28 +1,18 @@
 ### About Me
 
-#### Formal Education: 
-- Studio Art/Art History
-- Cinema and Media Studies
-- Front-end Web Development
-- Full-Stack Software Engineering
+**Formal Education:** Studio Art/Art History, Cinema and Media Studies, front-end web development, full-stack software engineering
 
-#### Work/Life Experience: 
-- Visual and written communication
-- Working on small, non-hierarchical teams
-- Self-guided skill building
-- Customer service
-- Creative work for clients
-- Event planning
+**Work/Life Experience:** visual and written communication, working on small non-hierarchical teams, self-guided skill building, customer service, delivering creative work for clients
 
-#### Currently working (and welcoming input) on:
+**Pronouns:** They/She 
+
+**Currently working (and welcoming input) on:**
 - React Hooks
 - WordPress custom themes
 - Using WebSockets to build multiplayer games
 - Curating my Twitter feed
 - Learning about different career possibilities
 - Designing a routine for working on multiple projects concurrently
-
-#### Pronouns: They/She 
 
 
 <!--

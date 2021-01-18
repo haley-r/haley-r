@@ -1,19 +1,17 @@
 ### About Me
 
-**Formal Education:** Studio Art/Art History, Cinema and Media Studies, front-end web development, full-stack software engineering
+**Formal Education:** art, media studies, web development, full-stack software engineering
 
-**Work/Life Experience:** visual and written communication, working on small non-hierarchical teams, self-guided skill building, customer service, delivering creative work for clients
+**Work/Life Experience:** visual and written communication, small non-hierarchical team work, self-guided skill building, customer service, creative deliverables
 
-**Pronouns:** They/She 
+**Pronouns:** They/She
 
-**Currently working (and welcoming input) on:**
-- React Hooks
-- WordPress custom themes
-- Using WebSockets to build multiplayer games
-- Curating my Twitter feed
-- Learning about different career possibilities
-- Designing a routine for working on multiple projects concurrently
-
+**Currently learning...**
+- The latest in React
+- Go Language
+- How to make basic browser games
+- Arabic
+- What I can do with Arduinos
 
 <!--
 **haley-r/haley-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

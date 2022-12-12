@@ -4,14 +4,10 @@
 
 **Work/Life Experience:** visual and written communication, small non-hierarchical team work, self-guided skill building, customer service, creative deliverables
 
-**Pronouns:** They/She
-
 **Currently learning...**
-- The latest in React
-- Go Language
-- How to make basic browser games
-- Arabic
-- What I can do with Arduinos
+- Python
+- microcontrollers + electronics
+- ASL
 
 <!--
 **haley-r/haley-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
